@@ -1,0 +1,21 @@
+{
+  "name": "ampify-io",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "trash dist",
+    "build": "webpack -d",
+    "start": "ampify-dev-server"
+  },
+  "dependencies": {
+    "@ampify/aquery": "^1.2.2"
+  },
+  "devDependencies": {
+    "@ampify/dev-server": "^1.2.1",
+    "copy-webpack-plugin": "^5.1.1",
+    "prettier": "^2.0.4",
+    "trash-cli": "^3.0.0",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}

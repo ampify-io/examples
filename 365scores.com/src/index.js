@@ -224,7 +224,7 @@ const initGames = () => {
 }
 
 export default async () => {
-  document.body.setAttribute('data-ampify-plugin-verion', 'v3.3');
+  document.body.setAttribute('data-ampify-plugin-verion', 'v3.4');
 
   loadCss();
 

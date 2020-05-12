@@ -2,6 +2,11 @@ import $ from '@ampify/aQuery';
 
 export const loadCss = () => {
   $.injectCss(`
+    /* make header responsive */
+    .website-content-component > .injector:first-child {
+      max-width: 100vw !important;
+    }
+
     /* menu */
     .menu-active { color: #FFF !important; }
     .menu-inactive { color: #7f97ab !important; }

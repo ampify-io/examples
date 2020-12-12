@@ -2,20 +2,20 @@
 # yarn lockfile v1
 
 
-"@ampify/aquery@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@ampify/aquery/-/aquery-1.2.0.tgz#6ca6cc537211c69350c3039d798047c5bb1578be"
-  integrity sha512-HAgfVNc4IcrsaDDdWmNxI31+NrGSjJKT2Se4h09yXsVaVBLzlmkg9t9aLZZg5wTz1UBwmlLDQndkNXOQzd7hxQ==
+"@ampify/aquery@^1.2.1":
+  version "1.2.13"
+  resolved "https://registry.yarnpkg.com/@ampify/aquery/-/aquery-1.2.13.tgz#2584b359aeca4e846f0a379edc3668c6c23845ff"
+  integrity sha512-U80lTgJmjgBIlmE1c8Ns6Mn9PBHe5hLAoCxwsyuLegoNyNARe88PDwoAJ0invA7uB4erbvbBB0rEsx+kmfbIpw==
   dependencies:
     "@ampproject/toolbox-script-csp" "^2.0.0"
     jquery "^3.4.1"
     lodash.camelcase "^4.3.0"
     nanoid "^2.1.6"
 
-"@ampify/dev-server@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@ampify/dev-server/-/dev-server-1.1.0.tgz#0b857cbb47874a9ce1e11304258425f81536c034"
-  integrity sha512-f1yWdkXqgF3tOkGMMWFY11uJtdJkchUpjZR7AgnLJg4WYm6rFJUJr4mTTQLx6gk8nKdJAMP1z1aOYNuql9OttQ==
+"@ampify/dev-server@^1.2.1":
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/@ampify/dev-server/-/dev-server-1.2.8.tgz#81d020727b8b44bc1a30353aee0becaaee447305"
+  integrity sha512-jucsfNi5MJHEBmco93cN0BFpD4kqtxxHjCmNdb2MtsLhNohrT5A6u5kUPR4Tc9Y7A/5Qb7pCKFqGTZp1WBUfKg==
   dependencies:
     body-parser "^1.19.0"
     debug "^4.1.1"
@@ -1807,9 +1807,9 @@ inherits@2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ini@^1.3.4, ini@^1.3.5, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 interpret@1.2.0:
   version "1.2.0"
